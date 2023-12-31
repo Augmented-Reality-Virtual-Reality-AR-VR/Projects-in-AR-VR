@@ -1,4 +1,4 @@
-# Projects in AR VR
+# Projects in AR & VR
 
 <p align="justify"> Projects in the realm of XR (Extended Reality), AR (Augmented Reality), and VR (Virtual Reality) span diverse industries, showcasing the transformative potential of immersive technologies. In healthcare, VR projects are revolutionizing medical training by providing realistic simulations for surgical procedures, enabling practitioners to hone their skills in a risk-free environment. AR is making waves in the retail sector with projects that enhance the shopping experience, allowing customers to visualize products in their real-world environment before making a purchase. XR is increasingly being employed in architectural and design projects, facilitating immersive walkthroughs of buildings and spaces before construction begins.</p>
 
